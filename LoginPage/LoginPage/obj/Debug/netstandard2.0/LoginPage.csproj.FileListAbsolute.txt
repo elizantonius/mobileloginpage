@@ -1,0 +1,17 @@
+E:\WebDevel\LoginPage\LoginPage\LoginPage\bin\Debug\netstandard2.0\LoginPage.deps.json
+E:\WebDevel\LoginPage\LoginPage\LoginPage\bin\Debug\netstandard2.0\LoginPage.dll
+E:\WebDevel\LoginPage\LoginPage\LoginPage\bin\Debug\netstandard2.0\LoginPage.pdb
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginPage.csproj.AssemblyReference.cache
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginPage.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginPage.AssemblyInfoInputs.cache
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginPage.AssemblyInfo.cs
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginPage.csproj.CoreCompileInputs.cache
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\XamlC.stamp
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginPage.dll
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\refint\LoginPage.dll
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginPage.pdb
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\ref\LoginPage.dll
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\LoginUI.xaml.g.cs
+E:\WebDevel\LoginPage\LoginPage\LoginPage\obj\Debug\netstandard2.0\PgUser.xaml.g.cs

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginPage.LoginUI" >
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+
+            <Image Source="epc.png" WidthRequest="180" HeightRequest="180"></Image>
+            <Entry x:Name="usrname" Placeholder="Username" TextColor="White" PlaceholderColor="Gray"></Entry>
+            <Entry x:Name="paswd" Placeholder="Password" IsPassword="True" PlaceholderColor="Gray"></Entry>
+            <Button VerticalOptions="Center" Text="Login" TextColor="White" BackgroundColor="Transparent" BorderColor="Blue" BorderWidth="1.5" CornerRadius="50" Clicked="Button_Clicked"></Button>
+            <Label HorizontalOptions="Center">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Belum punya akun?" TextColor="Gray"></Span>
+                        <Span Text=" Mendaftar" TextColor="Gray" FontAttributes="Bold" TextDecorations="Underline"></Span>
+                    </FormattedString>
+                </Label.FormattedText>
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped"></TapGestureRecognizer>
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
